@@ -9,7 +9,7 @@
 	// Data for text message. This is the text message data.
 	$sender = "ASPIRE"; // This is who the message appears to be from.
 	$numbers = "919995466747, 917025554920, 919526960627"; // A single number or a comma-seperated list of numbers
-	$message = $_POST['message'];
+	$message ="This is test!";
 	// 612 chars or less
 	// A single number or a comma-seperated list of numbers
 	$message = urlencode($message);
