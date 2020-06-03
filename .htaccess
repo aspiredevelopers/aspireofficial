@@ -1,1 +1,2 @@
 ErrorDocument 404 https://aspiredevelopers.github.io/aspireofficial/error404.html
+AddType application/x-httpd-php5 .php
